@@ -8,7 +8,7 @@ I'm a Computer Science student who enjoys building technology that solves real-w
 
 🚀 Current Focus
 
-AI-Powered Workforce Matching Engine — a hybrid recommendation system designed to connect job seekers with suitable opportunities in Kenya, using a four-step matching pipeline with a feedback loop to continuously improve placement accuracy.
+AI-Powered Workforce Matching Engine, a hybrid recommendation system designed to connect job seekers with suitable opportunities in Kenya, using a four-step matching pipeline with a feedback loop to continuously improve placement accuracy.
 
 
 🛠️ Technical Ecosystem
