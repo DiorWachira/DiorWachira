@@ -41,12 +41,14 @@ I'm a Computer Science student who enjoys building technology that solves real-w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiorWachira&show_icons=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiorWachira&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" height="165"/>
+  <!-- Added private repository tracking and a cache-refresh parameter to force updates -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DiorWachira&show_icons=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiorWachira&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiorWachira&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <!-- Added count_private=true so the line graph includes private repository timelines -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiorWachira&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true&count_private=true" alt="Contribution Graph" />
 </p>
 
 ## 🤝 Connect With Me
