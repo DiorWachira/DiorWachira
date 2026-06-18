@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=Hi,+I'm+Dior+Wachira&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer+Science+Student+%7C+Builder+of+Practical+Tech&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=Hi,+I'm+Dior+Wachira&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer+Science+Student+%7C+Builder+of+Practical+Solutions&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 <h3 align="center">👋 Welcome to my profile</h3>
 <p align="center">
