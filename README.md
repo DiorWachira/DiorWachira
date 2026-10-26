@@ -8,6 +8,12 @@
 I'm a Computer Science student who enjoys building technology that solves real-world problems. My interests span web development, mobile applications, data analytics, and intelligent systems. I'm currently working on a hybrid AI matching and recommendation engine for workforce placement, combining rule-based logic with machine learning. I enjoy working across JavaScript, TypeScript, React, Node.js, and databases, and I'm always looking to sharpen my software engineering skills by turning ideas into practical, user-focused applications.
 </p>
 
+<p align="center">
+  <a href="https://diorwachira.github.io/Official-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View_my_portfolio-diorwachira.github.io-0A6E35?style=for-the-badge&logo=githubpages&logoColor=white" alt="View my portfolio" />
+  </a>
+</p>
+
 ## 🚀 Current Focus
 
 **AI-Powered Workforce Matching Engine** — a hybrid recommendation system designed to connect job seekers with suitable opportunities in Kenya, using a four-step matching pipeline with a feedback loop to continuously improve placement accuracy.
@@ -54,6 +60,9 @@ I'm a Computer Science student who enjoys building technology that solves real-w
 ## 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://diorwachira.github.io/Official-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A6E35?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/njoroge-wachira-b9273b37b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
